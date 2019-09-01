@@ -1,2 +1,10 @@
-# ngrx-knowledge
+# NgRx Knowledge
+
 A repository to collect docs, examples, links, etc. about NgRx
+
+# NgRx Ref. Links
+
+- [NgRx.io](https://ngrx.io/)
+- [Angular NgRx: A clean and clear introduction](https://medium.com/frontend-fun/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc)
+- [Announcing NgRx Version 8](https://medium.com/ngrx/announcing-ngrx-version-8-ngrx-data-create-functions-runtime-checks-and-mock-selectors-a44fac112627)
+- [How To Upgrade Your Angular and NgRx Apps to v8](https://dev.to/angular/how-to-upgrade-your-angular-and-ngrx-apps-to-v8-4iip)
